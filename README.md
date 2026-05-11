@@ -1,6 +1,6 @@
 # tbs
 Shortcut to The-Bar-Signage
 
-<a href='https://spataray.github.io/karaplay/?key=AIzaSyAJ6XE866VF-8VKn7iMtVQjMZTS_LPB9l4'>click here</a>
+<a href='https://spataray.github.io/karaplay/?key=AIzaSyCmmuxJQcJbgeoSqN_ljKbXqcP0KltEx3w'>click here</a>
 
 
